@@ -49,7 +49,7 @@ Condition: Clear sky
 
 ---
 
-## Screenshots
+## Output
 <img width="3855" height="2160" alt="Screenshot 2025-10-28 182604" src="https://github.com/user-attachments/assets/a279fba3-cfec-48bb-8401-68006bcc1cf1" />
 <img width="3839" height="2157" alt="Screenshot 2025-10-28 182622" src="https://github.com/user-attachments/assets/83d829bf-c237-457b-822b-fd59b939441d" />
 <img width="3839" height="2157" alt="Screenshot 2025-10-28 182648" src="https://github.com/user-attachments/assets/53b22885-1b03-486c-911b-591d7c97cbb4" />
